@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 ---
-> Happy to do code ! 💜 👩🏻‍💻
+> Happy to do code ! 💜 👩🏻‍💻    
 > find, love, create, enjoy, cry, sing, code, laugh, lalala 🎶
 
 - 💬 About    
   [Major]
-  Business School, Hanyang University, 2015
-  Computer Science, Hanynag University, 2018~
+  Business School, Hanyang University, 2015     
+  Computer Science, Hanynag University, 2018~     
   
 - 🔗 Link   
   https://medium.com/@JynnPark
