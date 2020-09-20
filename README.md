@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 > Happy to do code ! 💜 👩🏻‍💻
 > find, love, create, enjoy, cry, sing, code, laugh, lalala 🎶
 
-- 💬 About
+- 💬 About    
+  [Major]
   Business School, Hanyang University, 2015
   Computer Science, Hanynag University, 2018~
   
-- 🔗 Link
+- 🔗 Link   
   https://medium.com/@JynnPark
    
-- 📫 Contact
+- 📫 Contact   
   Email: yuunnii315@gmail.com
