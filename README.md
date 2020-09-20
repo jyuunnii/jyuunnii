@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 > find, love, create, enjoy, cry, sing, code, laugh, lalala 🎶
 
 - 💬 About    
-  [Major]
+  [Major]        
   Business School, Hanyang University, 2015     
   Computer Science, Hanynag University, 2018~     
   
