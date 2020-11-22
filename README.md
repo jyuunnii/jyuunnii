@@ -13,19 +13,20 @@ Here are some ideas to get you started:
 -->
 
 ---
-> Happy to do code ! 💜 👩🏻‍💻    
-> find, love, create, enjoy, cry, sing, code, laugh, lalala 🎶
+> Happy to do code ! :purple_heart: 👩🏻‍💻    
+> find, love, create, enjoy, cry, sing, code, laugh, lalala :notes:
 
-- 🔭 I’m currently working on ...   
-  https://coffee-hmm.inhibitor.io/ ☕️
+- :telescope: I’m currently working on ...   
+  COFFEE-HMM https://coffee-hmm.inhibitor.io/ :coffee:   <br>
+  DDAT-HMM http://ddat-hmm.s3-website.ap-northeast-2.amazonaws.com/ :love_letter:
   
-- 💬 About    
+- :speech_balloon: About    
   [Major]        
   Business School, Hanyang University, 2015     
   Computer Science, Hanynag University, 2018~     
   
-- 🔗 Link   
+- :link: Link   
   https://medium.com/@JynnPark
    
-- 📫 Contact   
+- :mailbox_with_mail: Contact   
   Email: yuunnii315@gmail.com
