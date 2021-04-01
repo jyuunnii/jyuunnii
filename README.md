@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 > find, love, create, enjoy, cry, sing, code, laugh, lalala :notes:
 
 - :telescope: I’m currently working on ...   
-  COFFEE-HMM https://coffee-hmm.inhibitor.io/ :coffee:   <br>
+  COFFEE-HMM https://www.coffeehmm.com/ :coffee:   <br>
   DDAT-HMM http://ddat-hmm.s3-website.ap-northeast-2.amazonaws.com/ :love_letter:
   
 - :speech_balloon: About    
