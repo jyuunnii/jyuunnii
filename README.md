@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 > Happy to do code ! :purple_heart: 👩🏻‍💻    
 > find, love, create, enjoy, cry, sing, code, laugh, lalala :notes:
 
-- :telescope: I’m currently working on ...   
-  COFFEE-HMM https://www.coffeehmm.com/ :coffee:   <br>
+- :telescope: I’m currently working on ...  
+  MyRealTrip Frontend developer ✈️ <br/>
+- 🍎 I'm developing and managing ...   
+  COFFEE-HMM https://www.coffeehmm.com/ :coffee:   <br/>
   DDAT-HMM http://ddat-hmm.s3-website.ap-northeast-2.amazonaws.com/ :love_letter:
   
 - :speech_balloon: About    
   [Major]        
   Business School, Hanyang University, 2015     
-  Computer Science, Hanynag University, 2018~     
+  Computer Science, Hanynag University, 2018     
   
 - :link: Link   
   https://medium.com/@JynnPark
