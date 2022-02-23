@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   Computer Science, Hanynag University, 2018     
   
 - :link: Link   
-  https://medium.com/@JynnPark
+  https://developing-shrimp-b97.notion.site/b3047041cf91456f91def8058813841b
    
 - :mailbox_with_mail: Contact   
   Email: yuunnii315@gmail.com
